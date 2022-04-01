@@ -1,7 +1,8 @@
+/*Adding fonts*/
 @import url('https://fonts.cdnfonts.com/css/circe');
 @import url('db.onlinewebfonts.com/c/000b38b7be6515466bec7878eb278dbe?family=Leitura+Roman+1');
 
-
+/*Resting the page with margin and padding*/
 *{
     margin:0;
     padding:0;
@@ -9,13 +10,18 @@
 
 body{
     background: #F5706C;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    flex-direction: column;
+    height: 115vh;
 }
 
 .section-0{
     display: flex;
     align-items: center;
     flex-direction: column;
-    height: 46vh;
+    height: 39vh;
     
     a{
         background: #272727;
@@ -74,20 +80,286 @@ body{
 }
 
 .section-1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    transition: ease-in-out 0.5s;
+    margin: 0% 0% 2% 0%;
+
+    .sub1-section1{
+        color: #FCFCF0;
+        background: #272727;
+        border-radius: 50px;
+    }
+
+    .sub2-section1{
+        display:flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        border-top: 3px solid white;
+        border-bottom: 3px solid white;
+        width: 47vw;
+
+        div{
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            flex-direction: initial;
+            width: -webkit-fill-available;
+            padding: 0% 5%;
+
+            h3{
+                font-size:1.35vw;
+                padding: 0% 0% 1% 1%;
+            }
+        }
+
+        p{
+            color: #272727;
+            font-size: 1.4vw;
+            font-family: "Leitura Roman 1";
+            padding: 2.5% 0% 2.5% 0%;
+            
+        }
+    }
+
+    .section-1-dropdown-content{
+        display: none;
+    }
+
+    &:hover{
+        background: #a73b38;
+        transition: ease-in-out 0.5s;
+        cursor: pointer;
+    }
 }
 
 .section-2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    transition: ease-in-out 0.5s;
+    margin: 0% 0% 2% 0%;
 
+    .sub1-section2{
+        color: #FCFCF0;
+        background: #272727;
+        border-radius: 50px;
+    }
+
+    .sub2-section2{
+        display:flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        border-top: 3px solid white;
+        border-bottom: 3px solid white;
+        width: 47vw;
+
+        div{
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            flex-direction: initial;
+            width: -webkit-fill-available;
+            padding: 0% 5%;
+
+            h3{
+                font-size:1.35vw;
+                padding: 0% 0% 1% 1%;
+            }
+        }
+
+        p{
+            color: #272727;
+            font-size: 1.4vw;
+            font-family: "Leitura Roman 1";
+            padding: 2.5% 0% 2.5% 0%;
+            
+        }
+    }
+
+    .section-2-dropdown-content{
+        display: none;
+    }
+
+    &:hover{
+        background: #a73b38;
+        transition: ease-in-out 0.5s;
+        cursor: pointer;
+    }
 }
 
 .section-3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    transition: ease-in-out 0.5s;
+    margin: 0% 0% 2% 0%;
 
+    .sub1-section3{
+        color: #FCFCF0;
+        background: #272727;
+        border-radius: 50px;
+    }
+
+    .sub2-section3{
+        display:flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        border-top: 3px solid white;
+        border-bottom: 3px solid white;
+        width: 47vw;
+
+        div{
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            flex-direction: initial;
+            width: -webkit-fill-available;
+            padding: 0% 5%;
+
+            h3{
+                font-size:1.35vw;
+                padding: 0% 0% 1% 1%;
+            }
+        }
+
+        p{
+            color: #272727;
+            font-size: 1.4vw;
+            font-family: "Leitura Roman 1";
+            padding: 2.5% 0% 2.5% 0%;
+            
+        }
+    }
+
+    .section-3-dropdown-content{
+        display: none;
+    }
+
+    &:hover{
+        background: #a73b38;
+        transition: ease-in-out 0.5s;
+        cursor: pointer;
+    }
 }
 
 .section-4{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    transition: ease-in-out 0.5s;
+    margin: 0% 0% 2% 0%;
 
+    .sub1-section4{
+        color: #FCFCF0;
+        background: #272727;
+        border-radius: 50px;
+    }
+
+    .sub2-section4{
+        display:flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        border-top: 3px solid white;
+        border-bottom: 3px solid white;
+        width: 47vw;
+
+        div{
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            flex-direction: initial;
+            width: -webkit-fill-available;
+            padding: 0% 5%;
+
+            h3{
+                font-size:1.35vw;
+                padding: 0% 0% 1% 1%;
+            }
+        }
+
+        p{
+            color: #272727;
+            font-size: 1.4vw;
+            font-family: "Leitura Roman 1";
+            padding: 2.5% 0% 2.5% 0%;
+            
+        }
+    }
+
+    .section-4-dropdown-content{
+        display: none;
+    }
+
+    &:hover{
+        background: #a73b38;
+        transition: ease-in-out 0.5s;
+        cursor: pointer;
+    }
 }
 
 .section-5{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    transition: ease-in-out 0.5s;
+    margin: 0% 0% 2% 0%;
 
+    .sub1-section5{
+        color: #FCFCF0;
+        background: #272727;
+        border-radius: 50px;
+    }
+
+    .sub2-section5{
+        display:flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        border-top: 3px solid white;
+        border-bottom: 3px solid white;
+        width: 47vw;
+
+        div{
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            flex-direction: initial;
+            width: -webkit-fill-available;
+            padding: 0% 5%;
+
+            h3{
+                font-size:1.35vw;
+                padding: 0% 0% 1% 1%;
+            }
+        }
+
+        p{
+            color: #272727;
+            font-size: 1.4vw;
+            font-family: "Leitura Roman 1";
+            padding: 2.5% 0% 2.5% 0%;
+            
+        }
+    }
+
+    .section-5-dropdown-content{
+        display: none;
+    }
+
+    &:hover{
+        background: #a73b38;
+        transition: ease-in-out 0.5s;
+        cursor: pointer;
+    }
 }
