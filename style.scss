@@ -1,3 +1,7 @@
+@import url('https://fonts.cdnfonts.com/css/circe');
+@import url('db.onlinewebfonts.com/c/000b38b7be6515466bec7878eb278dbe?family=Leitura+Roman+1');
+
+
 *{
     margin:0;
     padding:0;
@@ -5,6 +9,68 @@
 
 body{
     background: #F5706C;
+}
+
+.section-0{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    height: 46vh;
+    
+    a{
+        background: #272727;
+        color: #FCFCF0;
+        font-weight: bold;
+        padding: 0.5% 1.5% 0.5% 1.5%;
+        font-size: 1vw;
+        letter-spacing: 0.085vw;
+        font-family: 'Circe', sans-serif;
+        margin: 1.5% 0% 1% 0%;
+
+        position: relative;
+        z-index:1;
+    }
+
+    a:before{
+        border-top: 2px solid #272727;
+        content:"";
+        margin: 0 auto; 
+        position: absolute; 
+        top: 50%; 
+        left: 50%; 
+        width: 220%;
+        z-index: -1;
+    }
+
+    a:after{
+        border-top: 2px solid #272727;
+        content: "";
+        margin: 0 auto;
+        position: absolute;
+        right: 50%;
+        bottom: 50%;
+        width: 220%;
+        z-index: -1;
+    }
+
+
+    h2{
+        color: #272727;
+        font-size: 3vw;
+        font-family: "Leitura Roman 1";
+        padding: 1.5% 0% 1.5% 0%;
+    }
+
+    p{
+        font-family: 'Circe', sans-serif;
+        color: #272727;
+        font-size: 1.4vw;
+        text-align: center;
+    }
+
+        span{
+            text-decoration: underline;
+        }
 }
 
 .section-1{
