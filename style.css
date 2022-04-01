@@ -166,15 +166,15 @@ body {
   padding: 2.5% 0% 2.5% 0%;
 }
 
-.section-1 .section-1-dropdown-content {
-  display: none;
-}
-
-.section-1:hover {
+.section-1 .sub2-section1:hover {
   background: #a73b38;
   -webkit-transition: ease-in-out 0.5s;
   transition: ease-in-out 0.5s;
   cursor: pointer;
+}
+
+.section-1 .section-1-dropdown-content {
+  display: none;
 }
 
 .section-2 {
@@ -251,15 +251,15 @@ body {
   padding: 2.5% 0% 2.5% 0%;
 }
 
-.section-2 .section-2-dropdown-content {
-  display: none;
-}
-
-.section-2:hover {
+.section-2 .sub2-section2:hover {
   background: #a73b38;
   -webkit-transition: ease-in-out 0.5s;
   transition: ease-in-out 0.5s;
   cursor: pointer;
+}
+
+.section-2 .section-2-dropdown-content {
+  display: none;
 }
 
 .section-3 {
@@ -336,15 +336,15 @@ body {
   padding: 2.5% 0% 2.5% 0%;
 }
 
-.section-3 .section-3-dropdown-content {
-  display: none;
-}
-
-.section-3:hover {
+.section-3 .sub2-section3:hover {
   background: #a73b38;
   -webkit-transition: ease-in-out 0.5s;
   transition: ease-in-out 0.5s;
   cursor: pointer;
+}
+
+.section-3 .section-3-dropdown-content {
+  display: none;
 }
 
 .section-4 {
@@ -421,15 +421,15 @@ body {
   padding: 2.5% 0% 2.5% 0%;
 }
 
-.section-4 .section-4-dropdown-content {
-  display: none;
-}
-
-.section-4:hover {
+.section-4 .sub2-section4:hover {
   background: #a73b38;
   -webkit-transition: ease-in-out 0.5s;
   transition: ease-in-out 0.5s;
   cursor: pointer;
+}
+
+.section-4 .section-4-dropdown-content {
+  display: none;
 }
 
 .section-5 {
@@ -506,14 +506,14 @@ body {
   padding: 2.5% 0% 2.5% 0%;
 }
 
-.section-5 .section-5-dropdown-content {
-  display: none;
-}
-
-.section-5:hover {
+.section-5 .sub2-section5:hover {
   background: #a73b38;
   -webkit-transition: ease-in-out 0.5s;
   transition: ease-in-out 0.5s;
   cursor: pointer;
+}
+
+.section-5 .section-5-dropdown-content {
+  display: none;
 }
 /*# sourceMappingURL=style.css.map */
