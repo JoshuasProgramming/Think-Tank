@@ -521,7 +521,7 @@ body {
   ##Device = Most of the Smartphones Mobiles (Portrait)
   ##Screen = B/w 320px to 479px
 */
-@media (min-width: 320px) and (max-width: 480px) {
+@media (min-width: 280px) and (max-width: 480px) {
   .section-0 a {
     background: #272727;
     color: #FCFCF0;
@@ -588,6 +588,64 @@ body {
 ##Screen = B/w 768px to 1024px
 */
 @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+  .section-0 a {
+    background: #272727;
+    color: #FCFCF0;
+    font-weight: bold;
+    padding: 1.5% 2% 1.5% 2%;
+    font-size: 1.5vw;
+    letter-spacing: 0.185vw;
+    font-family: 'Circe', sans-serif;
+    margin: 2.5% 0% 2.5% 0%;
+    position: relative;
+    z-index: 1;
+  }
+  .section-0 h2 {
+    color: #272727;
+    font-size: 4vw;
+    font-family: "Leitura Roman 1";
+    padding: 1.5% 0% 1.5% 0%;
+  }
+  .section-0 p {
+    font-family: 'Circe', sans-serif;
+    color: #272727;
+    font-size: 1.7vw;
+    text-align: center;
+  }
+}
+
+/* 
+  ##Device = Laptops, Desktops
+  ##Screen = B/w 1025px to 1280px
+*/
+@media (min-width: 1025px) and (max-width: 1280px) {
+  .section-0 a {
+    background: #272727;
+    color: #FCFCF0;
+    font-weight: bold;
+    padding: 1.5% 2% 1.5% 2%;
+    font-size: 1vw;
+    letter-spacing: 0.185vw;
+    font-family: 'Circe', sans-serif;
+    margin: 2.5% 0% 2.5% 0%;
+    position: relative;
+    z-index: 1;
+  }
+  .section-0 h2 {
+    color: #272727;
+    font-size: 3vw;
+    font-family: "Leitura Roman 1";
+    padding: 1.5% 0% 1.5% 0%;
+  }
+  .section-0 p {
+    font-family: 'Circe', sans-serif;
+    color: #272727;
+    font-size: 1.5vw;
+    text-align: center;
+  }
+}
+
+@media (min-width: 484px) and (max-width: 767px) {
   .section-0 a {
     background: #272727;
     color: #FCFCF0;
