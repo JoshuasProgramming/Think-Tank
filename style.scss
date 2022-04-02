@@ -123,12 +123,13 @@ body{
             padding: 2.5% 0% 2.5% 0%;
             
         }
-
-        &:hover{
-            background: #a73b38;
-            transition: ease-in-out 0.5s;
-            cursor: pointer;
-        }
+    }
+    
+    &:hover{
+        background: #a73b38;
+        transition: ease-in-out 0.5s;
+        width: -webkit-fill-available;
+        cursor: pointer;
     }
 
     .section-1-dropdown-content{
@@ -206,11 +207,13 @@ body{
             padding: 2.5% 0% 2.5% 0%;
             
         }
-        &:hover{
-            background: #a73b38;
-            transition: ease-in-out 0.5s;
-            cursor: pointer;
-        }
+    }
+
+    &:hover{
+        background: #a73b38;
+        transition: ease-in-out 0.5s;
+        width: -webkit-fill-available;
+        cursor: pointer;
     }
 
     .section-2-dropdown-content{
@@ -262,11 +265,13 @@ body{
             padding: 2.5% 0% 2.5% 0%;
             
         }
-        &:hover{
-            background: #a73b38;
-            transition: ease-in-out 0.5s;
-            cursor: pointer;
-        }
+    }
+
+    &:hover{
+        background: #a73b38;
+        transition: ease-in-out 0.5s;
+        width: -webkit-fill-available;
+        cursor: pointer;
     }
 
     .section-3-dropdown-content{
@@ -318,11 +323,13 @@ body{
             padding: 2.5% 0% 2.5% 0%;
             
         }
-        &:hover{
-            background: #a73b38;
-            transition: ease-in-out 0.5s;
-            cursor: pointer;
-        }
+    }
+
+    &:hover{
+        background: #a73b38;
+        transition: ease-in-out 0.5s;
+        width: -webkit-fill-available;
+        cursor: pointer;
     }
 
     .section-4-dropdown-content{
@@ -374,11 +381,13 @@ body{
             padding: 2.5% 0% 2.5% 0%;
             
         }
-        &:hover{
-            background: #a73b38;
-            transition: ease-in-out 0.5s;
-            cursor: pointer;
-        }
+    }
+    
+    &:hover{
+        background: #a73b38;
+        transition: ease-in-out 0.5s;
+        width: -webkit-fill-available;
+        cursor: pointer;
     }
 
     .section-5-dropdown-content{
