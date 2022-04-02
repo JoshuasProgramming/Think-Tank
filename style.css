@@ -593,6 +593,12 @@ body {
   ##Device = Low Resolution Tablets, Mobiles (Landscape)
   ##Screen = B/w 481px to 767px
 */
+@media (min-width: 481px) and (max-width: 767px) {
+  .section-1 {
+    margin: 10% 0% 2% 0%;
+  }
+}
+
 /* 
   ##Device = Tablets, Ipads (portrait)
   ##Screen = B/w 768px to 1024px
@@ -652,6 +658,9 @@ body {
     color: #272727;
     font-size: 1.7vw;
     text-align: center;
+  }
+  .section-1 {
+    margin: 10% 0% 2% 0%;
   }
 }
 
