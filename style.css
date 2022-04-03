@@ -106,8 +106,6 @@ body {
   -webkit-box-direction: initial;
       -ms-flex-direction: initial;
           flex-direction: initial;
-  -webkit-transition: ease-in-out 0.5s;
-  transition: ease-in-out 0.5s;
   margin: 0% 0% 2% 0%;
 }
 
@@ -174,8 +172,8 @@ body {
 
 .section-1:hover {
   background: #a73b38;
-  -webkit-transition: ease-in-out 0.5s;
-  transition: ease-in-out 0.5s;
+  -webkit-transition: ease-in-out 1s;
+  transition: ease-in-out 1s;
   width: -webkit-fill-available;
   cursor: pointer;
 }
@@ -234,8 +232,6 @@ body {
   -webkit-box-direction: normal;
       -ms-flex-direction: row;
           flex-direction: row;
-  -webkit-transition: ease-in-out 0.5s;
-  transition: ease-in-out 0.5s;
   margin: 0% 0% 2% 0%;
 }
 
@@ -301,8 +297,8 @@ body {
 
 .section-2:hover {
   background: #a73b38;
-  -webkit-transition: ease-in-out 0.5s;
-  transition: ease-in-out 0.5s;
+  -webkit-transition: ease-in-out 1s;
+  transition: ease-in-out 1s;
   width: -webkit-fill-available;
   cursor: pointer;
 }
@@ -325,8 +321,6 @@ body {
   -webkit-box-direction: normal;
       -ms-flex-direction: row;
           flex-direction: row;
-  -webkit-transition: ease-in-out 0.5s;
-  transition: ease-in-out 0.5s;
   margin: 0% 0% 2% 0%;
 }
 
@@ -392,8 +386,8 @@ body {
 
 .section-3:hover {
   background: #a73b38;
-  -webkit-transition: ease-in-out 0.5s;
-  transition: ease-in-out 0.5s;
+  -webkit-transition: ease-in-out 1s;
+  transition: ease-in-out 1s;
   width: -webkit-fill-available;
   cursor: pointer;
 }
@@ -416,8 +410,6 @@ body {
   -webkit-box-direction: normal;
       -ms-flex-direction: row;
           flex-direction: row;
-  -webkit-transition: ease-in-out 0.5s;
-  transition: ease-in-out 0.5s;
   margin: 0% 0% 2% 0%;
 }
 
@@ -483,8 +475,8 @@ body {
 
 .section-4:hover {
   background: #a73b38;
-  -webkit-transition: ease-in-out 0.5s;
-  transition: ease-in-out 0.5s;
+  -webkit-transition: ease-in-out 1s;
+  transition: ease-in-out 1s;
   width: -webkit-fill-available;
   cursor: pointer;
 }
@@ -507,8 +499,6 @@ body {
   -webkit-box-direction: normal;
       -ms-flex-direction: row;
           flex-direction: row;
-  -webkit-transition: ease-in-out 0.5s;
-  transition: ease-in-out 0.5s;
   margin: 0% 0% 2% 0%;
 }
 
@@ -574,8 +564,8 @@ body {
 
 .section-5:hover {
   background: #a73b38;
-  -webkit-transition: ease-in-out 0.5s;
-  transition: ease-in-out 0.5s;
+  -webkit-transition: ease-in-out 1s;
+  transition: ease-in-out 1s;
   width: -webkit-fill-available;
   cursor: pointer;
 }

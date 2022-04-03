@@ -20,6 +20,7 @@ section_1_hover_btn.addEventListener("click", (e)=> {
         section_1_hover_btn.style.margin = "1.5% 0% 1.5% 0%";
         section_1_dropdown_content.style.transition = "0s"
         section_1_hover_btn.style.transition = "0s";
+        section_1_hover_btn.style.background = "#F5706C";
 
         //leave this event function when finished.
         return;
@@ -33,6 +34,8 @@ section_1_hover_btn.addEventListener("click", (e)=> {
         section_1_hover_btn.style.margin = "0% 0% -0.5% 0%";
         section_1_dropdown_content.style.transition = "0s"
         section_1_hover_btn.style.transition = "0s";
+        section_1_hover_btn.style.background = "#a73b38";
+        section_1_hover_btn.style.width = "-webkit-fill-available";
 
         //leave this event function when finished
         return;
