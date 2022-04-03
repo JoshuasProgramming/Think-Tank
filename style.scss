@@ -366,9 +366,9 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    flex-direction: column;
-    border-bottom: 3px solid white;
-    width: 47vw;
+    flex-direction: row;
+    transition: ease-in-out 0.5s;
+    margin: 0% 0% 2% 0%;
 
     .sub1-section5{
         color: #FCFCF0;
@@ -382,6 +382,7 @@ body{
         justify-content: center;
         flex-direction: column;
         border-top: 3px solid white;
+        border-bottom: 3px solid white;
         width: 47vw;
 
         div{

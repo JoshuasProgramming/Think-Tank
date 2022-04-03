@@ -503,12 +503,13 @@ body {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  -webkit-box-orient: vertical;
+  -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
-  border-bottom: 3px solid white;
-  width: 47vw;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-transition: ease-in-out 0.5s;
+  transition: ease-in-out 0.5s;
+  margin: 0% 0% 2% 0%;
 }
 
 .section-5 .sub1-section5 {
@@ -532,6 +533,7 @@ body {
       -ms-flex-direction: column;
           flex-direction: column;
   border-top: 3px solid white;
+  border-bottom: 3px solid white;
   width: 47vw;
 }
 
