@@ -155,8 +155,15 @@ body {
 }
 
 .section-1 .sub2-section1 div h3 {
-  font-size: 1.35vw;
+  font-size: 15px;
   padding: 0% 0% 1% 1%;
+  font-family: 'Circe', sans-serif;
+  font-weight: normal;
+}
+
+.section-1 .sub2-section1 div h3 b {
+  font-weight: bolder;
+  font-size: 18px;
 }
 
 .section-1 .sub2-section1 p {
@@ -277,8 +284,14 @@ body {
 }
 
 .section-2 .sub2-section2 div h3 {
-  font-size: 1.35vw;
+  font-size: 15px;
   padding: 0% 0% 1% 1%;
+  font-family: 'Circe', sans-serif;
+}
+
+.section-2 .sub2-section2 div h3 b {
+  font-weight: bolder;
+  font-size: 18px;
 }
 
 .section-2 .sub2-section2 p {
@@ -363,8 +376,14 @@ body {
 }
 
 .section-3 .sub2-section3 div h3 {
-  font-size: 1.35vw;
+  font-size: 15px;
   padding: 0% 0% 1% 1%;
+  font-family: 'Circe', sans-serif;
+}
+
+.section-3 .sub2-section3 div h3 b {
+  font-weight: bolder;
+  font-size: 18px;
 }
 
 .section-3 .sub2-section3 p {
@@ -449,8 +468,14 @@ body {
 }
 
 .section-4 .sub2-section4 div h3 {
-  font-size: 1.35vw;
+  font-size: 15px;
   padding: 0% 0% 1% 1%;
+  font-family: 'Circe', sans-serif;
+}
+
+.section-4 .sub2-section4 div h3 b {
+  font-weight: bolder;
+  font-size: 18px;
 }
 
 .section-4 .sub2-section4 p {
