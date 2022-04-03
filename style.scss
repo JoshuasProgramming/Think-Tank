@@ -14,7 +14,7 @@ body{
     align-items: center;
     justify-content: start;
     flex-direction: column;
-    height: 115vh;
+    height: 130vh;
 }
 
 .section-0{
@@ -108,7 +108,6 @@ body{
             justify-content: space-between;
             flex-direction: initial;
             width: -webkit-fill-available;
-            padding: 0% 5%;
 
             h3{
                 // font-size:1.35vw;
@@ -200,7 +199,6 @@ body{
             justify-content: space-between;
             flex-direction: initial;
             width: -webkit-fill-available;
-            padding: 0% 5%;
 
             h3{
                 // font-size:1.35vw;
@@ -265,7 +263,6 @@ body{
             justify-content: space-between;
             flex-direction: initial;
             width: -webkit-fill-available;
-            padding: 0% 5%;
 
             h3{
                 // font-size:1.35vw;
@@ -330,7 +327,6 @@ body{
             justify-content: space-between;
             flex-direction: initial;
             width: -webkit-fill-available;
-            padding: 0% 5%;
 
             h3{
                 // font-size:1.35vw;
@@ -370,9 +366,9 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    flex-direction: row;
-    transition: ease-in-out 0.5s;
-    margin: 0% 0% 2% 0%;
+    flex-direction: column;
+    border-bottom: 3px solid white;
+    width: 47vw;
 
     .sub1-section5{
         color: #FCFCF0;
@@ -386,7 +382,6 @@ body{
         justify-content: center;
         flex-direction: column;
         border-top: 3px solid white;
-        border-bottom: 3px solid white;
         width: 47vw;
 
         div{
@@ -395,11 +390,17 @@ body{
             justify-content: space-between;
             flex-direction: initial;
             width: -webkit-fill-available;
-            padding: 0% 5%;
 
             h3{
-                font-size:1.35vw;
+                // font-size:1.35vw;
+                font-size: 15px;
                 padding: 0% 0% 1% 1%;
+                font-family: 'Circe', sans-serif;
+
+                b{
+                    font-weight: bolder;
+                    font-size: 18px;
+                }
             }
         }
 
