@@ -1008,7 +1008,7 @@ body {
     height: 200vh;
   }
   .section-0 {
-    height: 37vh;
+    height: 57vh;
   }
   .section-0 a {
     background: #272727;
@@ -1035,7 +1035,7 @@ body {
     text-align: center;
   }
   .section-1 {
-    margin: 1.5% 0% 1.5% 0%;
+    margin: 1.5% 0%;
   }
   .section-1 .sub2-section1 {
     display: -webkit-box;
@@ -1273,9 +1273,6 @@ body {
     color: #272727;
     font-size: 1.7vw;
     text-align: center;
-  }
-  .section-1 {
-    margin: 10% 0% 2% 0%;
   }
 }
 
