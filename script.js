@@ -15,14 +15,15 @@ section_1_hover_btn.addEventListener("click", (e)=> {
 
     //Whenever the dropdown section has been activated...
     if(section_1_dropdown_content.style.display == "inline"){
+
         //...we'll deactivate the dropdown section (display:none)
         section_1_dropdown_content.style.display = "none";
 
         section_1_hover_btn.style.margin = "1.5% 0% 1.5% 0%";
         section_1_dropdown_content.style.transition = "0s"
         section_1_hover_btn.style.transition = "0s";
-        // section_1_hover_btn.style.background = "#F5706C";
-        location.reload();
+        section_1_hover_btn.style.background = "#F5706C";
+
         //leave this event function when finished.
         return;
     }
@@ -37,7 +38,7 @@ section_1_hover_btn.addEventListener("click", (e)=> {
         section_1_dropdown_content.style.transition = "0s"
         section_1_hover_btn.style.transition = "0s";
         section_1_hover_btn.style.background = "#a73b38";
-        section_1_hover_btn.style.hover = "#F5706C";
+        // section_1_hover_btn.style.hover = "#F5706C";
         section_1_hover_btn.style.width = "-webkit-fill-available";
 
 
