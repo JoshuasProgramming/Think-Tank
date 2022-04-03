@@ -428,7 +428,13 @@ body{
 
 @media (min-width: 280px) and (max-width: 480px) {
   
+    body{
+        height:100vh;
+    }
+
     .section-0{
+        height:27vh;
+
         a{
             background: #272727;
             color: #FCFCF0;
@@ -454,6 +460,172 @@ body{
             color: #272727;
             font-size: 3vw;
             text-align: center;
+        }
+    }
+
+    .section-1{
+        .sub2-section1{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            border-top: 1px solid white;
+            border-bottom: 1px solid white;
+            width: 87vw;
+
+            p{
+                color: #272727;
+                font-size: 3vw;
+                font-family: "Leitura Roman 1";
+                padding: 2.5% 0% 2.5% 0%;
+            }
+
+            div{
+                h3{
+                    font-size: 10px;
+                    font-family: 'Circe', sans-serif;
+                    font-weight: normal;
+                    b{
+                        font-size:12px;
+                    }
+                }
+            }
+        }
+    }
+
+    .section-2{
+        .sub2-section2{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            border-top: 1px solid white;
+            border-bottom: 1px solid white;
+            width: 87vw;
+
+            p{
+                color: #272727;
+                font-size: 3vw;
+                font-family: "Leitura Roman 1";
+                padding: 2.5% 0% 2.5% 0%;
+            }
+
+            div{
+                h3{
+                    font-size: 10px;
+                    font-family: 'Circe', sans-serif;
+                    font-weight: normal;
+                    b{
+                        font-size:12px;
+                    }
+                }
+            }
+        }
+    }
+
+    .section-3{
+        .sub2-section3{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            border-top: 1px solid white;
+            border-bottom: 1px solid white;
+            width: 87vw;
+
+            p{
+                color: #272727;
+                font-size: 3vw;
+                font-family: "Leitura Roman 1";
+                padding: 2.5% 0% 2.5% 0%;
+            }
+
+            div{
+                h3{
+                    font-size: 10px;
+                    font-family: 'Circe', sans-serif;
+                    font-weight: normal;
+                    b{
+                        font-size:12px;
+                    }
+                }
+            }
+        }
+    }
+
+    .section-4{
+        .sub2-section4{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            border-top: 1px solid white;
+            border-bottom: 1px solid white;
+            width: 87vw;
+
+            p{
+                color: #272727;
+                font-size: 3vw;
+                font-family: "Leitura Roman 1";
+                padding: 2.5% 0% 2.5% 0%;
+            }
+
+            div{
+                h3{
+                    font-size: 10px;
+                    font-family: 'Circe', sans-serif;
+                    font-weight: normal;
+                    b{
+                        font-size:12px;
+                    }
+                }
+            }
+        }
+    }
+
+    .section-5{
+        .sub2-section5{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            border-top: 1px solid white;
+            border-bottom: 1px solid white;
+            width: 87vw;
+
+            p{
+                color: #272727;
+                font-size: 3vw;
+                font-family: "Leitura Roman 1";
+                padding: 2.5% 0% 2.5% 0%;
+            }
+
+            div{
+                h3{
+                    font-size: 10px;
+                    font-family: 'Circe', sans-serif;
+                    font-weight: normal;
+                    b{
+                        font-size:12px;
+                    }
+                }
+            }
+        }
+    }
+
+
+    .section-1-dropdown-content{
+        .dropdown-content-container{
+            p{
+                font-size: 2.6vw;
+                padding: 0% 10% 0% 10%;
+                font-family: 'Circe', sans-serif;
+            }
+
+            a{
+                font-family: 'Circe', sans-serif;
+                padding: 0% 0% 0% 10%;
+            }
         }
     }
     
