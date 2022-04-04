@@ -119,7 +119,7 @@ body {
   -ms-grid-column-align: center;
       justify-self: center;
   text-align: center;
-  padding: .2% 1% .1% 1%;
+  padding: .2% 1% .1% 0.9%;
   font-size: 1.5vw;
   position: absolute;
   left: 22.5%;
@@ -260,7 +260,7 @@ body {
   -ms-grid-column-align: center;
       justify-self: center;
   text-align: center;
-  padding: .2% 1% .1% 1%;
+  padding: .2% 1% .1% 0.9%;
   font-size: 1.5vw;
   position: absolute;
   left: 22.5%;
@@ -363,7 +363,7 @@ body {
   -ms-grid-column-align: center;
       justify-self: center;
   text-align: center;
-  padding: .2% 1% .1% 1%;
+  padding: .2% 1% .1% 0.9%;
   font-size: 1.5vw;
   position: absolute;
   left: 22.5%;
@@ -466,7 +466,7 @@ body {
   -ms-grid-column-align: center;
       justify-self: center;
   text-align: center;
-  padding: .2% 1% .1% 1%;
+  padding: .2% 1% .1% 0.9%;
   font-size: 1.5vw;
   position: absolute;
   left: 22.5%;
@@ -569,7 +569,7 @@ body {
   -ms-grid-column-align: center;
       justify-self: center;
   text-align: center;
-  padding: .2% 1% .1% 1%;
+  padding: .2% 1% .1% 0.9%;
   font-size: 1.5vw;
   position: absolute;
   left: 22.5%;
