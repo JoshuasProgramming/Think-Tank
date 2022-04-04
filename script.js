@@ -19,9 +19,14 @@ section_1_hover_btn.addEventListener("click", (e)=> {
         //...we'll deactivate the dropdown section (display:none)
         section_1_dropdown_content.style.display = "none";
 
+        //make space above the section (top and bottom)
         section_1_hover_btn.style.margin = "1.5% 0% 1.5% 0%";
+
+        //Take away the transition of the sections moving down
         section_1_dropdown_content.style.transition = "0s"
         section_1_hover_btn.style.transition = "0s";
+
+        //change the color of the section to a darker pink
         section_1_hover_btn.style.background = "#F5706C";
 
         //leave this event function when finished.
@@ -33,12 +38,18 @@ section_1_hover_btn.addEventListener("click", (e)=> {
         //...we'll activate the dropdown section (display:none)
         section_1_dropdown_content.style.display = "inline";
 
+        //Make space below the dropdown content to avoid overlapping between section2 and the dropdown.
         section_1_dropdown_content.style.margin = "0% 0% 1% 0%";
         section_1_hover_btn.style.margin = "0% 0% -0.5% 0%";
+        
+        //Take away the transition of the sections moving 
         section_1_dropdown_content.style.transition = "0s"
         section_1_hover_btn.style.transition = "0s";
+
+        //change the color of section-1 back to it's original color
         section_1_hover_btn.style.background = "#a73b38";
-        // section_1_hover_btn.style.hover = "#F5706C";
+
+        //make the width of the section fill the available space
         section_1_hover_btn.style.width = "-webkit-fill-available";
 
 
