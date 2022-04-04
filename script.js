@@ -8,6 +8,7 @@ const section_5_hover_btn = document.getElementById('section_5_hover_btn');
 //grabbing the dropdown content of section 1
 const section_1_dropdown_content = document.getElementById('section_1_dropdown_content');
 
+
 //adding an event listener so that once the user presses the section...
 section_1_hover_btn.addEventListener("click", (e)=> {
 
@@ -47,13 +48,14 @@ section_1_hover_btn.addEventListener("click", (e)=> {
         section_1_hover_btn.style.transition = "0s";
 
         //change the color of section-1 back to it's original color
-        section_1_hover_btn.style.background = "#a73b38";
+        section_1_hover_btn.style.background = "#db5956";
 
         //make the width of the section fill the available space
         section_1_hover_btn.style.width = "-webkit-fill-available";
-
 
         //leave this event function when finished
         return;
     }
 });
+
+

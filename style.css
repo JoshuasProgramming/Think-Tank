@@ -141,8 +141,8 @@ body {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
-  border-top: 3px solid white;
-  border-bottom: 3px solid white;
+  border-top: 5px solid white;
+  border-bottom: 5px solid white;
   width: 47vw;
 }
 
@@ -183,7 +183,7 @@ body {
 }
 
 .section-1:hover {
-  background: #a73b38;
+  background: #db5956;
   -webkit-transition: ease-in-out 1s;
   transition: ease-in-out 1s;
   width: -webkit-fill-available;
@@ -279,8 +279,8 @@ body {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
-  border-top: 3px solid white;
-  border-bottom: 3px solid white;
+  border-top: 5px solid white;
+  border-bottom: 5px solid white;
   width: 47vw;
 }
 
@@ -320,7 +320,7 @@ body {
 }
 
 .section-2:hover {
-  background: #a73b38;
+  background: #db5956;
   -webkit-transition: ease-in-out 1s;
   transition: ease-in-out 1s;
   width: -webkit-fill-available;
@@ -380,8 +380,8 @@ body {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
-  border-top: 3px solid white;
-  border-bottom: 3px solid white;
+  border-top: 5px solid white;
+  border-bottom: 5px solid white;
   width: 47vw;
 }
 
@@ -421,7 +421,7 @@ body {
 }
 
 .section-3:hover {
-  background: #a73b38;
+  background: #db5956;
   -webkit-transition: ease-in-out 1s;
   transition: ease-in-out 1s;
   width: -webkit-fill-available;
@@ -481,8 +481,8 @@ body {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
-  border-top: 3px solid white;
-  border-bottom: 3px solid white;
+  border-top: 5px solid white;
+  border-bottom: 5px solid white;
   width: 47vw;
 }
 
@@ -522,7 +522,7 @@ body {
 }
 
 .section-4:hover {
-  background: #a73b38;
+  background: #db5956;
   -webkit-transition: ease-in-out 1s;
   transition: ease-in-out 1s;
   width: -webkit-fill-available;
@@ -582,8 +582,8 @@ body {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
-  border-top: 3px solid white;
-  border-bottom: 3px solid white;
+  border-top: 5px solid white;
+  border-bottom: 5px solid white;
   width: 47vw;
 }
 
@@ -623,7 +623,7 @@ body {
 }
 
 .section-5:hover {
-  background: #a73b38;
+  background: #db5956;
   -webkit-transition: ease-in-out 1s;
   transition: ease-in-out 1s;
   width: -webkit-fill-available;
