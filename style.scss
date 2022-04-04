@@ -85,8 +85,8 @@ body{
     justify-content: space-evenly;
     flex-direction: initial;
     margin: 0% 0% 2% 0%;
-    // width: -webkit-fill-available;
-    width:50vw;
+    width: -webkit-fill-available;
+    transition: ease-in-out 1s;
 
     .sub1-section1{
         color: #FCFCF0;
@@ -188,7 +188,9 @@ body{
     justify-content: center;
     flex-direction: row;
     margin: 0% 0% 2% 0%;
-    width:50vw;
+    // width:50vw;
+    width: -webkit-fill-available;
+    transition: ease-in-out 1s;
 
     .sub1-section2{
         color: #FCFCF0;
@@ -262,7 +264,8 @@ body{
     justify-content: center;
     flex-direction: row;
     margin: 0% 0% 2% 0%;
-    width:50vw;
+    width: -webkit-fill-available;
+    transition: ease-in-out 1s;
 
     .sub1-section3{
         color: #FCFCF0;
@@ -336,7 +339,8 @@ body{
     justify-content: center;
     flex-direction: row;
     margin: 0% 0% 2% 0%;
-    width:50vw;
+    width: -webkit-fill-available;
+    transition: ease-in-out 1s;
 
     .sub1-section4{
         color: #FCFCF0;
@@ -410,7 +414,8 @@ body{
     justify-content: center;
     flex-direction: row;
     margin: 0% 0% 2% 0%;
-    width:50vw;
+    width: -webkit-fill-available;
+    transition: ease-in-out 1s;
 
     .sub1-section5{
         color: #FCFCF0;
