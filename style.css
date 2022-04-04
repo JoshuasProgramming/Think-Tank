@@ -177,6 +177,13 @@ body {
   font-size: 18px;
 }
 
+.section-1 .sub2-section1 div h2 {
+  font-size: 1.2vw;
+  font-family: 'Circe', sans-serif;
+  padding: 0% 0% 1% 0%;
+  font-weight: bolder;
+}
+
 .section-1 .sub2-section1 p {
   color: #272727;
   font-size: 1.638vw;
@@ -317,6 +324,13 @@ body {
   font-size: 18px;
 }
 
+.section-2 .sub2-section2 div h2 {
+  font-size: 1.2vw;
+  font-family: 'Circe', sans-serif;
+  padding: 0% 0% 1% 0%;
+  font-weight: bolder;
+}
+
 .section-2 .sub2-section2 p {
   color: #272727;
   font-size: 1.6vw;
@@ -418,6 +432,13 @@ body {
 .section-3 .sub2-section3 div h3 b {
   font-weight: bolder;
   font-size: 18px;
+}
+
+.section-3 .sub2-section3 div h2 {
+  font-size: 1.2vw;
+  font-family: 'Circe', sans-serif;
+  padding: 0% 0% 1% 0%;
+  font-weight: bolder;
 }
 
 .section-3 .sub2-section3 p {
@@ -523,6 +544,13 @@ body {
   font-size: 18px;
 }
 
+.section-4 .sub2-section4 div h2 {
+  font-size: 1.2vw;
+  font-family: 'Circe', sans-serif;
+  padding: 0% 0% 1% 0%;
+  font-weight: bolder;
+}
+
 .section-4 .sub2-section4 p {
   color: #272727;
   font-size: 1.6vw;
@@ -624,6 +652,13 @@ body {
 .section-5 .sub2-section5 div h3 b {
   font-weight: bolder;
   font-size: 18px;
+}
+
+.section-5 .sub2-section5 div h2 {
+  font-size: 1.2vw;
+  font-family: 'Circe', sans-serif;
+  padding: 0% 0% 1% 0%;
+  font-weight: bolder;
 }
 
 .section-5 .sub2-section5 p {
