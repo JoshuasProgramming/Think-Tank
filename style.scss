@@ -82,14 +82,26 @@ body{
 .section-1{
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-evenly;
     flex-direction: initial;
     margin: 0% 0% 2% 0%;
+    // width: -webkit-fill-available;
+    width:50vw;
 
     .sub1-section1{
         color: #FCFCF0;
         background: #272727;
         border-radius: 50px;
+        justify-self: center;
+        text-align: center;
+        padding: .2% 1% .1% 1%;
+        font-size: 1.5vw;
+        position: absolute;
+        left: 23%;
+
+        p{
+            font-family: 'Circe', sans-serif;
+        }
     }
 
     .sub2-section1{
@@ -175,11 +187,22 @@ body{
     justify-content: center;
     flex-direction: row;
     margin: 0% 0% 2% 0%;
+    width:50vw;
 
     .sub1-section2{
         color: #FCFCF0;
         background: #272727;
         border-radius: 50px;
+        justify-self: center;
+        text-align: center;
+        padding: .2% 1% .1% 1%;
+        font-size: 1.5vw;
+        position: absolute;
+        left: 23%;
+
+        p{
+            font-family: 'Circe', sans-serif;
+        }
     }
 
     .sub2-section2{
@@ -238,11 +261,22 @@ body{
     justify-content: center;
     flex-direction: row;
     margin: 0% 0% 2% 0%;
+    width:50vw;
 
     .sub1-section3{
         color: #FCFCF0;
         background: #272727;
         border-radius: 50px;
+        justify-self: center;
+        text-align: center;
+        padding: .2% 1% .1% 1%;
+        font-size: 1.5vw;
+        position: absolute;
+        left: 23%;
+
+        p{
+            font-family: 'Circe', sans-serif;
+        }
     }
 
     .sub2-section3{
@@ -301,11 +335,22 @@ body{
     justify-content: center;
     flex-direction: row;
     margin: 0% 0% 2% 0%;
+    width:50vw;
 
     .sub1-section4{
         color: #FCFCF0;
         background: #272727;
         border-radius: 50px;
+        justify-self: center;
+        text-align: center;
+        padding: .2% 1% .1% 1%;
+        font-size: 1.5vw;
+        position: absolute;
+        left: 23%;
+
+        p{
+            font-family: 'Circe', sans-serif;
+        }
     }
 
     .sub2-section4{
@@ -364,11 +409,22 @@ body{
     justify-content: center;
     flex-direction: row;
     margin: 0% 0% 2% 0%;
+    width:50vw;
 
     .sub1-section5{
         color: #FCFCF0;
         background: #272727;
         border-radius: 50px;
+        justify-self: center;
+        text-align: center;
+        padding: .2% 1% .1% 1%;
+        font-size: 1.5vw;
+        position: absolute;
+        left: 23%;
+
+        p{
+            font-family: 'Circe', sans-serif;
+        }
     }
 
     .sub2-section5{

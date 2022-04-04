@@ -99,20 +99,32 @@ body {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
   -webkit-box-orient: initial;
   -webkit-box-direction: initial;
       -ms-flex-direction: initial;
           flex-direction: initial;
   margin: 0% 0% 2% 0%;
+  width: 50vw;
 }
 
 .section-1 .sub1-section1 {
   color: #FCFCF0;
   background: #272727;
   border-radius: 50px;
+  -ms-grid-column-align: center;
+      justify-self: center;
+  text-align: center;
+  padding: .2% 1% .1% 1%;
+  font-size: 1.5vw;
+  position: absolute;
+  left: 23%;
+}
+
+.section-1 .sub1-section1 p {
+  font-family: 'Circe', sans-serif;
 }
 
 .section-1 .sub2-section1 {
@@ -233,12 +245,24 @@ body {
       -ms-flex-direction: row;
           flex-direction: row;
   margin: 0% 0% 2% 0%;
+  width: 50vw;
 }
 
 .section-2 .sub1-section2 {
   color: #FCFCF0;
   background: #272727;
   border-radius: 50px;
+  -ms-grid-column-align: center;
+      justify-self: center;
+  text-align: center;
+  padding: .2% 1% .1% 1%;
+  font-size: 1.5vw;
+  position: absolute;
+  left: 23%;
+}
+
+.section-2 .sub1-section2 p {
+  font-family: 'Circe', sans-serif;
 }
 
 .section-2 .sub2-section2 {
@@ -322,12 +346,24 @@ body {
       -ms-flex-direction: row;
           flex-direction: row;
   margin: 0% 0% 2% 0%;
+  width: 50vw;
 }
 
 .section-3 .sub1-section3 {
   color: #FCFCF0;
   background: #272727;
   border-radius: 50px;
+  -ms-grid-column-align: center;
+      justify-self: center;
+  text-align: center;
+  padding: .2% 1% .1% 1%;
+  font-size: 1.5vw;
+  position: absolute;
+  left: 23%;
+}
+
+.section-3 .sub1-section3 p {
+  font-family: 'Circe', sans-serif;
 }
 
 .section-3 .sub2-section3 {
@@ -411,12 +447,24 @@ body {
       -ms-flex-direction: row;
           flex-direction: row;
   margin: 0% 0% 2% 0%;
+  width: 50vw;
 }
 
 .section-4 .sub1-section4 {
   color: #FCFCF0;
   background: #272727;
   border-radius: 50px;
+  -ms-grid-column-align: center;
+      justify-self: center;
+  text-align: center;
+  padding: .2% 1% .1% 1%;
+  font-size: 1.5vw;
+  position: absolute;
+  left: 23%;
+}
+
+.section-4 .sub1-section4 p {
+  font-family: 'Circe', sans-serif;
 }
 
 .section-4 .sub2-section4 {
@@ -500,12 +548,24 @@ body {
       -ms-flex-direction: row;
           flex-direction: row;
   margin: 0% 0% 2% 0%;
+  width: 50vw;
 }
 
 .section-5 .sub1-section5 {
   color: #FCFCF0;
   background: #272727;
   border-radius: 50px;
+  -ms-grid-column-align: center;
+      justify-self: center;
+  text-align: center;
+  padding: .2% 1% .1% 1%;
+  font-size: 1.5vw;
+  position: absolute;
+  left: 23%;
+}
+
+.section-5 .sub1-section5 p {
+  font-family: 'Circe', sans-serif;
 }
 
 .section-5 .sub2-section5 {
