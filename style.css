@@ -211,12 +211,12 @@ body {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
-  height: 20vh;
+  height: 33vh;
   width: -webkit-fill-available;
 }
 
 .section-1-dropdown-content .dropdown-content-container p {
-  font-size: 1vw;
+  font-size: 1.31vw;
   padding: 0% 25% 0% 26.5%;
   font-family: 'Circe', sans-serif;
 }
@@ -224,6 +224,7 @@ body {
 .section-1-dropdown-content .dropdown-content-container a {
   font-family: 'Circe', sans-serif;
   padding: 0% 0% 0% 26.5%;
+  font-size: 1.165vw;
 }
 
 .section-1-dropdown-content .dropdown-content-container a:hover {

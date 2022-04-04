@@ -161,11 +161,11 @@ body{
         align-items: start;
         justify-content: space-evenly;
         flex-direction: column;
-        height: 20vh;
+        height: 33vh;
         width:-webkit-fill-available;
 
         p{
-            font-size: 1vw;
+            font-size: 1.31vw;
             padding: 0% 25% 0% 26.5%;
             font-family: 'Circe', sans-serif;
         }
@@ -173,6 +173,7 @@ body{
         a{
             font-family: 'Circe', sans-serif;
             padding: 0% 0% 0% 26.5%;
+            font-size: 1.165vw;
 
             &:hover{
                 cursor:pointer;
