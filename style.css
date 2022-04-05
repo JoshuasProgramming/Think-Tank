@@ -988,6 +988,18 @@ body {
   .section-0 {
     height: 70vh;
   }
+  .section-1 .sub1-section1 {
+    color: #FCFCF0;
+    background: #272727;
+    border-radius: 50px;
+    -ms-grid-column-align: center;
+        justify-self: center;
+    text-align: center;
+    padding: .4% 1.2% .2% 1.2%;
+    font-size: 1.56vw;
+    position: absolute;
+    left: 12.5%;
+  }
   .section-1 .sub2-section1 {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -1022,6 +1034,12 @@ body {
     font-weight: bolder;
     font-size: 13px;
   }
+  .section-1 .sub2-section1 div h2 {
+    font-size: 1.55vw;
+    font-family: 'Circe', sans-serif;
+    padding: 0% 0% 1% 0%;
+    font-weight: bolder;
+  }
   .section-1-dropdown-content {
     display: none;
     -ms-grid-column-align: end;
@@ -1042,21 +1060,33 @@ body {
     -webkit-box-direction: normal;
         -ms-flex-direction: column;
             flex-direction: column;
-    height: 30vh;
+    height: 40vh;
     width: -webkit-fill-available;
   }
   .section-1-dropdown-content .dropdown-content-container p {
-    font-size: 1.32vw;
+    font-size: 1.55vw;
     padding: 0% 15% 0% 18%;
     font-family: 'Circe', sans-serif;
   }
   .section-1-dropdown-content .dropdown-content-container a {
     font-family: 'Circe', sans-serif;
-    padding: 0% 0% 0% 17.5%;
+    padding: 0% 0% 0% 17.9%;
     font-size: 1.5vw;
   }
   .section-1-dropdown-content .dropdown-content-container a:hover {
     cursor: pointer;
+  }
+  .section-2 .sub1-section2 {
+    color: #FCFCF0;
+    background: #272727;
+    border-radius: 50px;
+    -ms-grid-column-align: center;
+        justify-self: center;
+    text-align: center;
+    padding: .4% 1.2% .2% 1.2%;
+    font-size: 1.56vw;
+    position: absolute;
+    left: 12.5%;
   }
   .section-2 .sub2-section2 {
     display: -webkit-box;
@@ -1092,6 +1122,24 @@ body {
     font-weight: bolder;
     font-size: 13px;
   }
+  .section-2 .sub2-section2 div h2 {
+    font-size: 1.55vw;
+    font-family: 'Circe', sans-serif;
+    padding: 0% 0% 1% 0%;
+    font-weight: bolder;
+  }
+  .section-3 .sub1-section3 {
+    color: #FCFCF0;
+    background: #272727;
+    border-radius: 50px;
+    -ms-grid-column-align: center;
+        justify-self: center;
+    text-align: center;
+    padding: .4% 1.2% .2% 1.2%;
+    font-size: 1.56vw;
+    position: absolute;
+    left: 12.5%;
+  }
   .section-3 .sub2-section3 {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -1125,6 +1173,24 @@ body {
   .section-3 .sub2-section3 div h3 b {
     font-weight: bolder;
     font-size: 13px;
+  }
+  .section-3 .sub2-section3 div h2 {
+    font-size: 1.55vw;
+    font-family: 'Circe', sans-serif;
+    padding: 0% 0% 1% 0%;
+    font-weight: bolder;
+  }
+  .section-4 .sub1-section4 {
+    color: #FCFCF0;
+    background: #272727;
+    border-radius: 50px;
+    -ms-grid-column-align: center;
+        justify-self: center;
+    text-align: center;
+    padding: .4% 1.2% .2% 1.2%;
+    font-size: 1.56vw;
+    position: absolute;
+    left: 12.5%;
   }
   .section-4 .sub2-section4 {
     display: -webkit-box;
@@ -1160,6 +1226,24 @@ body {
     font-weight: bolder;
     font-size: 13px;
   }
+  .section-4 .sub2-section4 div h2 {
+    font-size: 1.55vw;
+    font-family: 'Circe', sans-serif;
+    padding: 0% 0% 1% 0%;
+    font-weight: bolder;
+  }
+  .section-5 .sub1-section5 {
+    color: #FCFCF0;
+    background: #272727;
+    border-radius: 50px;
+    -ms-grid-column-align: center;
+        justify-self: center;
+    text-align: center;
+    padding: .4% 1.2% .2% 1.2%;
+    font-size: 1.56vw;
+    position: absolute;
+    left: 12.5%;
+  }
   .section-5 .sub2-section5 {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -1193,6 +1277,12 @@ body {
   .section-5 .sub2-section5 div h3 b {
     font-weight: bolder;
     font-size: 13px;
+  }
+  .section-5 .sub2-section5 div h2 {
+    font-size: 1.55vw;
+    font-family: 'Circe', sans-serif;
+    padding: 0% 0% 1% 0%;
+    font-weight: bolder;
   }
 }
 
@@ -1234,6 +1324,18 @@ body {
   .section-1 {
     margin: 1.5% 0%;
   }
+  .section-1 .sub1-section1 {
+    color: #FCFCF0;
+    background: #272727;
+    border-radius: 50px;
+    -ms-grid-column-align: center;
+        justify-self: center;
+    text-align: center;
+    padding: .2% 1% .1% 0.9%;
+    font-size: 1.5vw;
+    position: absolute;
+    left: 13%;
+  }
   .section-1 .sub2-section1 {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -1288,11 +1390,11 @@ body {
     -webkit-box-direction: normal;
         -ms-flex-direction: column;
             flex-direction: column;
-    height: 30vh;
+    height: 44vh;
     width: -webkit-fill-available;
   }
   .section-1-dropdown-content .dropdown-content-container p {
-    font-size: 1.32vw;
+    font-size: 1.62vw;
     padding: 0% 15% 0% 18%;
     font-family: 'Circe', sans-serif;
   }
@@ -1303,6 +1405,18 @@ body {
   }
   .section-1-dropdown-content .dropdown-content-container a:hover {
     cursor: pointer;
+  }
+  .section-2 .sub1-section2 {
+    color: #FCFCF0;
+    background: #272727;
+    border-radius: 50px;
+    -ms-grid-column-align: center;
+        justify-self: center;
+    text-align: center;
+    padding: .2% 1% .1% 0.9%;
+    font-size: 1.5vw;
+    position: absolute;
+    left: 13%;
   }
   .section-2 .sub2-section2 {
     display: -webkit-box;
@@ -1338,6 +1452,18 @@ body {
     font-weight: bolder;
     font-size: 13px;
   }
+  .section-3 .sub1-section3 {
+    color: #FCFCF0;
+    background: #272727;
+    border-radius: 50px;
+    -ms-grid-column-align: center;
+        justify-self: center;
+    text-align: center;
+    padding: .2% 1% .1% 0.9%;
+    font-size: 1.5vw;
+    position: absolute;
+    left: 13%;
+  }
   .section-3 .sub2-section3 {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -1372,6 +1498,18 @@ body {
     font-weight: bolder;
     font-size: 13px;
   }
+  .section-4 .sub1-section4 {
+    color: #FCFCF0;
+    background: #272727;
+    border-radius: 50px;
+    -ms-grid-column-align: center;
+        justify-self: center;
+    text-align: center;
+    padding: .2% 1% .1% 0.9%;
+    font-size: 1.5vw;
+    position: absolute;
+    left: 13%;
+  }
   .section-4 .sub2-section4 {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -1405,6 +1543,18 @@ body {
   .section-4 .sub2-section4 div h3 b {
     font-weight: bolder;
     font-size: 13px;
+  }
+  .section-5 .sub1-section5 {
+    color: #FCFCF0;
+    background: #272727;
+    border-radius: 50px;
+    -ms-grid-column-align: center;
+        justify-self: center;
+    text-align: center;
+    padding: .2% 1% .1% 0.9%;
+    font-size: 1.5vw;
+    position: absolute;
+    left: 13%;
   }
   .section-5 .sub2-section5 {
     display: -webkit-box;
