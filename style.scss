@@ -564,6 +564,19 @@ body{
     }
 
     .section-1{
+
+        .sub1-section1{
+            color: #FCFCF0;
+            background: #272727;
+            border-radius: 50px;
+            justify-self: center;
+            text-align: center;
+            padding: .2% 1.9% .1% 1.5%;
+            font-size: 2.5vw;
+            position: absolute;
+            left: 1%;
+        }
+
         .sub2-section1{
             display: flex;
             align-items: center;
@@ -577,7 +590,7 @@ body{
                 color: #272727;
                 font-size: 3vw;
                 font-family: "Leitura Roman 1";
-                padding: 2.5% 0% 2.5% 0%;
+                padding: 2.5% 5% 2.5% 0%;
             }
 
             div{
@@ -589,11 +602,47 @@ body{
                         font-size:12px;
                     }
                 }
+
+                h2{
+                    font-size: 2.55vw;
+                    font-family: 'Circe', sans-serif;
+                    padding: 0% 0% 1% 0%;
+                    font-weight: bolder;
+                }
+            }
+        }
+    }
+
+    .section-1-dropdown-content{
+        .dropdown-content-container{
+            p{
+                font-size: 3.45vw;
+                padding: 0% 10% 0% 10%;
+                font-family: 'Circe', sans-serif;
+            }
+
+            a{
+                font-family: 'Circe', sans-serif;
+                padding: 0% 0% 0% 10%;
+                font-size: 2.5vw;
             }
         }
     }
 
     .section-2{
+
+        .sub1-section2{
+            color: #FCFCF0;
+            background: #272727;
+            border-radius: 50px;
+            justify-self: center;
+            text-align: center;
+            padding: .2% 1.9% .1% 1.5%;
+            font-size: 2.5vw;
+            position: absolute;
+            left: 1%;
+        }
+
         .sub2-section2{
             display: flex;
             align-items: center;
@@ -619,11 +668,31 @@ body{
                         font-size:12px;
                     }
                 }
+
+                h2{
+                    font-size: 2.55vw;
+                    font-family: 'Circe', sans-serif;
+                    padding: 0% 0% 1% 0%;
+                    font-weight: bolder;
+                }
             }
         }
     }
 
     .section-3{
+
+        .sub1-section3{
+            color: #FCFCF0;
+            background: #272727;
+            border-radius: 50px;
+            justify-self: center;
+            text-align: center;
+            padding: .2% 1.9% .1% 1.5%;
+            font-size: 2.5vw;
+            position: absolute;
+            left: 1%;
+        }
+
         .sub2-section3{
             display: flex;
             align-items: center;
@@ -637,7 +706,7 @@ body{
                 color: #272727;
                 font-size: 3vw;
                 font-family: "Leitura Roman 1";
-                padding: 2.5% 0% 2.5% 0%;
+                padding: 2.5% 2% 2.5% 0%;
             }
 
             div{
@@ -649,11 +718,31 @@ body{
                         font-size:12px;
                     }
                 }
+
+                h2{
+                    font-size: 2.55vw;
+                    font-family: 'Circe', sans-serif;
+                    padding: 0% 0% 1% 0%;
+                    font-weight: bolder;
+                }
             }
         }
     }
 
     .section-4{
+
+        .sub1-section4{
+            color: #FCFCF0;
+            background: #272727;
+            border-radius: 50px;
+            justify-self: center;
+            text-align: center;
+            padding: .2% 1.9% .1% 1.5%;
+            font-size: 2.5vw;
+            position: absolute;
+            left: 1%;
+        }
+
         .sub2-section4{
             display: flex;
             align-items: center;
@@ -679,11 +768,31 @@ body{
                         font-size:12px;
                     }
                 }
+
+                h2{
+                    font-size: 2.55vw;
+                    font-family: 'Circe', sans-serif;
+                    padding: 0% 0% 1% 0%;
+                    font-weight: bolder;
+                }
             }
         }
     }
 
     .section-5{
+
+        .sub1-section5{
+            color: #FCFCF0;
+            background: #272727;
+            border-radius: 50px;
+            justify-self: center;
+            text-align: center;
+            padding: .2% 1.9% .1% 1.5%;
+            font-size: 2.5vw;
+            position: absolute;
+            left: 1%;
+        }
+
         .sub2-section5{
             display: flex;
             align-items: center;
@@ -709,26 +818,16 @@ body{
                         font-size:12px;
                     }
                 }
+
+                h2{
+                    font-size: 2.55vw;
+                    font-family: 'Circe', sans-serif;
+                    padding: 0% 0% 1% 0%;
+                    font-weight: bolder;
+                }
             }
         }
     }
-
-
-    .section-1-dropdown-content{
-        .dropdown-content-container{
-            p{
-                font-size: 2.6vw;
-                padding: 0% 10% 0% 10%;
-                font-family: 'Circe', sans-serif;
-            }
-
-            a{
-                font-family: 'Circe', sans-serif;
-                padding: 0% 0% 0% 10%;
-            }
-        }
-    }
-    
 }
 
 /* 
