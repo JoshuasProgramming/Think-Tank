@@ -9,7 +9,7 @@ I really enjoyed the process of breaking down the UX/UI design into small chunks
 * (updating my knowledge on) Responsive Design.
 * Adding favicon to a page.
 * Creating a website ASAP.
-* Flexbox & layouts
+* Flexbox & layouts.
 
 # Challenges
 
@@ -17,17 +17,27 @@ I really enjoyed the process of breaking down the UX/UI design into small chunks
 * Making each section of the page have the height and width of the ui/ux mockup.
 * Making a dropdown menu for the 1st section.
 
-# UI/UX Design
-![Final Product]()
+# Final Product 1920x1080 [Page, Open, Hover]
 
-## Final Product [page] (1920x1080 desktop)
+### Final Product [page] (1920x1080 desktop)
 ![Final Product](https://github.com/JoshuasProgramming/Think-Tank/blob/main/images/1920x1080_Page.png)
 
-## Final Product [hover] (1920x1080 desktop)
+### Final Product [hover] (1920x1080 desktop)
 ![Final Product](https://github.com/JoshuasProgramming/Think-Tank/blob/main/images/1920x1080_Hover.png)
 
-## Final Product [open] (1920x1080 desktop)
+### Final Product [open] (1920x1080 desktop)
 ![Final Product](https://github.com/JoshuasProgramming/Think-Tank/blob/main/images/1920x1080_Open.png)
 
-## Final Product (375x667 mobile)
-![Final Product]()
+
+# Final Product 375x667 [Page, Open, Hover]
+
+### Final Product [page] (375x667 mobile)
+![Final Product](https://github.com/JoshuasProgramming/Think-Tank/blob/main/images/375x667_Page.png)
+
+### Final Product [hover] (375x667 mobile)
+![Final Product](https://github.com/JoshuasProgramming/Think-Tank/blob/main/images/375x667_Hover.png)
+
+### Final Product [open] (375x667 mobile)
+![Final Product](https://github.com/JoshuasProgramming/Think-Tank/blob/main/images/375x667_Open.png)
+
+
