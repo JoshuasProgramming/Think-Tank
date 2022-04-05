@@ -20,8 +20,14 @@ I really enjoyed the process of breaking down the UX/UI design into small chunks
 # UI/UX Design
 ![Final Product]()
 
-## Final Product (1920x1080 desktop)
-![Final Product]()
+## Final Product [page] (1920x1080 desktop)
+![Final Product](https://github.com/JoshuasProgramming/Think-Tank/blob/main/images/1920x1080_Page.png)
+
+## Final Product [hover] (1920x1080 desktop)
+![Final Product](https://github.com/JoshuasProgramming/Think-Tank/blob/main/images/1920x1080_Hover.png)
+
+## Final Product [open] (1920x1080 desktop)
+![Final Product](https://github.com/JoshuasProgramming/Think-Tank/blob/main/images/1920x1080_Open.png)
 
 ## Final Product (375x667 mobile)
 ![Final Product]()
