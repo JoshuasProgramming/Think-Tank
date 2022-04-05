@@ -17,7 +17,19 @@ I really enjoyed the process of breaking down the UX/UI design into small chunks
 * Making each section of the page have the height and width of the ui/ux mockup.
 * Making a dropdown menu for the 1st section.
 
-# Final Product 1920x1080 Desktop [Page, Open, Hover]
+# UI/UX Design [Page, Hover, Open]
+
+### UI/UX [page]
+![Final Product](https://github.com/JoshuasProgramming/Think-Tank/blob/main/images/1-series-page.png)
+
+### UI/UX [hover]
+![Final Product](https://github.com/JoshuasProgramming/Think-Tank/blob/main/images/2-series-page-hover.png)
+
+### UI/UX [open]
+![Final Product](https://github.com/JoshuasProgramming/Think-Tank/blob/main/images/3-series-page-open.png)
+
+
+# Final Product 1920x1080 Desktop [Page, Hover, Open]
 
 ### Final Product [page] (1920x1080 desktop)
 ![Final Product](https://github.com/JoshuasProgramming/Think-Tank/blob/main/images/1920x1080_Page.png)
