@@ -28,6 +28,20 @@ I really enjoyed the process of breaking down the UX/UI design into small chunks
 ### UI/UX [open]
 ![Final Product](https://github.com/JoshuasProgramming/Think-Tank/blob/main/images/3-series-page-open.png)
 
+# The approach I took for the task
+
+* Breaking everything into sections. For example, every numbered row would be it's own section. This also included the introductory text above the first numbered section.
+
+* Breaking each individual numbered section down to see if I could use flexbox for vertical and horizontal alignment. 
+
+* Using flexbox to add space between elements. What helped was having a main container (e.g: section-1), and having a sub container within it (e.g: sub1-section1 / sub2-section1). 
+
+* I named every numbered circle 'sub1'. In order to make it work, I used padding and position absolute with left, for responsive purposes.
+
+* For the dropdown menu on section-1, I gave the section an id and grabbed it using JavaScript. I then followed up by adding a event listener, whereby once the user clicked the section a dropdown container which I had put on a dispay:none would appear underneath with some margin to avoid overlapping. 
+
+* Using flexbox, but especially media queries to make sure that the website is responsive for mobile, tablet, laptop and desktop devices.
+
 
 # Final Product 1920x1080 Desktop [Page, Hover, Open]
 
