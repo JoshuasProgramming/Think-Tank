@@ -17,6 +17,10 @@ I really enjoyed the process of breaking down the UX/UI design into small chunks
 * Making each section of the page have the height and width of the ui/ux mockup.
 * Making a dropdown menu for the 1st section.
 
+# What I'll do in the future 
+
+* Do responsive design differently
+
 # UI/UX Design [Page, Hover, Open]
 
 ### UI/UX [page]
